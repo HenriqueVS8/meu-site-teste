@@ -30,8 +30,8 @@ Oferecemos uma gama completa de serviços para o cuidado masculino:
 
 Visite-nos em:
 
-- **Endereço**: Rua Exemplo, 123 - Centro, Cidade
-- **Telefone**: (XX) XXXX-XXXX
+- **Endereço**: Rua amaral, 286 - Guarani
+- **Telefone**: (51) 41234-41515
 - **Horário de funcionamento**:
   - Segunda a Sexta: 08:00 - 18:00
   - Sábado: 09:00 - 14:00
@@ -42,12 +42,6 @@ Você pode agendar o seu horário através de nosso telefone, site ou aplicativo
 
 ---
 
-**Siga-nos nas redes sociais**:
-
-- Instagram: [@BarbeariaDoPai](https://www.instagram.com/BarbeariaDoPai)
-- Facebook: [Barbearia DoPai](https://www.facebook.com/BarbeariaDoPai)
-
----
 
 Agradecemos a sua visita e esperamos vê-lo em breve na Barbearia DoPai!
 
